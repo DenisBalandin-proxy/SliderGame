@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		924132E8295254F700EDDEF7 /* SliderLegacy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924132E7295254F700EDDEF7 /* SliderLegacy.swift */; };
 		92F4EB172951E41D00119475 /* SliderGameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92F4EB162951E41D00119475 /* SliderGameApp.swift */; };
 		92F4EB192951E41D00119475 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92F4EB182951E41D00119475 /* ContentView.swift */; };
 		92F4EB1B2951E41E00119475 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92F4EB1A2951E41E00119475 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		924132E7295254F700EDDEF7 /* SliderLegacy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderLegacy.swift; sourceTree = "<group>"; };
 		92F4EB132951E41D00119475 /* SliderGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SliderGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92F4EB162951E41D00119475 /* SliderGameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderGameApp.swift; sourceTree = "<group>"; };
 		92F4EB182951E41D00119475 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				92F4EB162951E41D00119475 /* SliderGameApp.swift */,
 				92F4EB182951E41D00119475 /* ContentView.swift */,
+				924132E7295254F700EDDEF7 /* SliderLegacy.swift */,
 				92F4EB1A2951E41E00119475 /* Assets.xcassets */,
 				92F4EB1C2951E41E00119475 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				924132E8295254F700EDDEF7 /* SliderLegacy.swift in Sources */,
 				92F4EB192951E41D00119475 /* ContentView.swift in Sources */,
 				92F4EB172951E41D00119475 /* SliderGameApp.swift in Sources */,
 			);
