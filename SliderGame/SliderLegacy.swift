@@ -52,7 +52,7 @@ extension sliderLegacy {
         }
         
         @objc func valueChanged(_ sender: UISlider) {
-            self._value.wrappedValue = Int(sender.value)
+            self.value = Int(sender.value)
         }
     }
 }
